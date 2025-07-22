@@ -1,6 +1,6 @@
 ## Hi My name is Bilge Sena KANBUR 👋
 
-🎯 Mobile App Developer | Flutter • Kotlin • Firebase
+🎯 Mobile App Developer | Flutter • Kotlin • Firebase • MySQL
 
 🌍 I'm based in Turkey  
   
