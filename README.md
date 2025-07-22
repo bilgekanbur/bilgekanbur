@@ -24,9 +24,9 @@
 🔗 [View on GitHub](https://github.com/senakanbur/pianosense)  
 📷 [Screenshot](https://example.com/screenshot.png)
 
-### 🧠 StudyBuddy  
-> A productivity timer & habit tracker for students  
-🔗 [Google Play Link](https://play.google.com/store/apps/details?id=com.yourapp)
+### ✏️ Aras Akademi  
+> An educational app
+
 
 ---
 
