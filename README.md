@@ -22,7 +22,7 @@
 ### 🎹 PianoSense  
 > An app that detects note accuracy, rhythm, and timing for piano learners  
 🔗 [View on GitHub](https://github.com/senakanbur/pianosense)  
-📷 ![Screenshot](https://example.com/screenshot.png)
+📷 [Screenshot](https://example.com/screenshot.png)
 
 ### 🧠 StudyBuddy  
 > A productivity timer & habit tracker for students  
